@@ -1,0 +1,326 @@
+# Unikit
+
+> Unikit is a set of seven free, open-source tools for university students who use Moodle. Each runs in your browser with nothing to install and nothing uploaded.
+
+Every tool is free, open source under the MIT licence, needs no account, and runs in the browser without uploading anything. The Moodle tools are bookmarks (bookmarklets) that work with Moodle 4 using the student's existing login.
+
+## Tools
+
+- [Modzip](https://ashgar99.github.io/moodle-module-downloader/): Modzip is a free, open-source bookmark that downloads every file from a Moodle 4 module as a single zip, with a folder for each section. It runs in your browser with your existing Moodle login, so there is nothing to install. Details: https://ashgar99.github.io/moodle-module-downloader/llms.txt
+- [Subzip](https://ashgar99.github.io/subzip/): Subzip is a free, open-source bookmark that saves your own Moodle assignment submissions, grades, feedback files and marker comments as one zip, organised into folders by module and assignment. Details: https://ashgar99.github.io/subzip/llms.txt
+- [Duecal](https://ashgar99.github.io/duecal/): Duecal is a free, open-source bookmark that collects your Moodle assignment and quiz deadlines into one calendar file (.ics) for Google, Apple or Outlook Calendar, with every deadline marked high priority and reminders before it is due. Details: https://ashgar99.github.io/duecal/llms.txt
+- [Termcal](https://ashgar99.github.io/termcal/): Termcal is a free, open-source tool that turns your weekly university timetable into calendar events for the whole term, skipping reading weeks, and downloads them as one calendar file for Google, Apple or Outlook Calendar. Details: https://ashgar99.github.io/termcal/llms.txt
+- [Gradewise](https://ashgar99.github.io/gradewise/): Gradewise is a free, open-source UK degree classification calculator. It works out your weighted average, your classification so far and the marks you need for a First, 2:1, 2:2 or Third, for three-year and four-year degrees, years abroad, integrated master’s and Scottish honours. Details: https://ashgar99.github.io/gradewise/llms.txt
+- [Wordfair](https://ashgar99.github.io/wordfair/): Wordfair is a free, open-source essay word counter that leaves out your reference list, footnotes, in-text citations and quotations, and checks your total against your word limit. Details: https://ashgar99.github.io/wordfair/llms.txt
+- [Readable](https://ashgar99.github.io/readable/): Readable is a free, open-source tool that turns scanned PDFs and photos of pages into searchable, highlightable PDFs using text recognition (OCR) in your browser. Files are never uploaded, and it supports English, European languages, Japanese, Chinese and Korean, including vertical text. Details: https://ashgar99.github.io/readable/llms.txt
+
+## Questions and answers
+
+### What is Unikit?
+
+Unikit is a set of seven free, open-source tools for university students who use Moodle. Each one runs in your browser with nothing to install, no account and nothing uploaded.
+
+### Which tools are in Unikit?
+
+Modzip saves a whole Moodle module, Subzip saves your submissions and feedback, Duecal puts deadlines in your calendar, Termcal turns your timetable into a calendar, Gradewise calculates your degree classification, Wordfair counts words the way markers do, and Readable makes scanned PDFs searchable.
+
+### Do the tools work with my university?
+
+The Moodle tools work with Moodle 4, which most universities use. Termcal, Gradewise, Wordfair and Readable work for any university.
+
+### Who made Unikit?
+
+Unikit was made by a university student in 2026 and is free and open source under the MIT licence. It is not affiliated with Moodle or any university.
+
+## Source code
+
+- https://github.com/ashgar99
+
+# Modzip
+
+> Modzip is a free, open-source bookmark that downloads every file from a Moodle 4 module as a single zip, with a folder for each section. It runs in your browser with your existing Moodle login, so there is nothing to install.
+
+- Website: https://ashgar99.github.io/moodle-module-downloader/
+- Source code: https://github.com/ashgar99/moodle-module-downloader
+- Licence: MIT. Free, with no account, adverts or tracking.
+- Part of Unikit, free tools for university students: https://ashgar99.github.io/
+
+## Features
+
+- Downloads every file and folder in a Moodle module at once
+- Organises the zip into numbered folders by section
+- Keeps the structure of Moodle folders
+- Works with Moodle 4
+- No extension or software to install
+
+## Questions and answers
+
+### What is Modzip?
+
+Modzip is a free, open-source bookmark that downloads every file from a Moodle 4 module as a single zip, with a numbered folder for each section. It runs in your browser with your existing Moodle login, so there is nothing to install.
+
+### How do I download all the files from a Moodle course at once?
+
+Drag the Modzip button onto your bookmarks bar, open the main page of a Moodle module while logged in, and click the bookmark. Modzip collects every file and folder in the module and downloads them as one zip, organised by section.
+
+### Does Modzip work with my university’s Moodle?
+
+Modzip works with Moodle 4, which most universities now use. Your university does not need to install or approve anything, because it uses the same access you already have when you are logged in.
+
+### How is Modzip different from a browser extension?
+
+There is nothing to install. Modzip is a bookmark containing a short, readable script, so it works in Chrome, Edge, Brave, Arc, Opera, Firefox and Safari, and older extensions that no longer support Moodle 4 do not affect it.
+
+### Is it safe to use?
+
+Modzip only talks to your own Moodle site using the login you already have, and loads one open-source library to build the zip. Nothing is uploaded or collected, and the code is public on GitHub.
+
+### What does Modzip not download?
+
+Lecture recordings hosted on platforms such as Panopto, links to external websites, Turnitin submissions and anything you do not have permission to view are not included.
+
+# Subzip
+
+> Subzip is a free, open-source bookmark that saves your own Moodle assignment submissions, grades, feedback files and marker comments as one zip, organised into folders by module and assignment.
+
+- Website: https://ashgar99.github.io/subzip/
+- Source code: https://github.com/ashgar99/subzip
+- Licence: MIT. Free, with no account, adverts or tracking.
+- Part of Unikit, free tools for university students: https://ashgar99.github.io/
+
+## Features
+
+- Saves your submitted files and online text submissions
+- Saves grades, feedback files and written feedback comments
+- Choose one assignment, one module or every module
+- Organises the zip by module and assignment
+- Tells you which Turnitin assignments to download from Turnitin
+
+## Questions and answers
+
+### What is Subzip?
+
+Subzip is a free, open-source bookmark that saves your own Moodle assignment submissions, grades, feedback files and marker comments as one zip, organised into folders by module and assignment.
+
+### How do I download my own submissions and feedback from Moodle?
+
+Most Moodle guides explain how staff download students’ work. To save your own, drag the Subzip button onto your bookmarks bar, open Moodle, click the bookmark and choose this assignment, this module or all modules.
+
+### Why should I save my work before I graduate?
+
+Universities usually remove access to Moodle some time after you leave. Saving your submissions and feedback keeps a record for portfolios, job applications and postgraduate study.
+
+### Does Subzip include Turnitin submissions?
+
+No. Turnitin keeps its submissions on its own servers, so Subzip tells you how many Turnitin assignments it left out. Download those from each assignment on Moodle using the download icon, and use the pencil icon to open your feedback.
+
+### Can I save just one module or one assignment?
+
+Yes. When you click the bookmark, Subzip asks whether you want the assignment you are on, the module you are in, or every module you have taken.
+
+### Is my work uploaded anywhere?
+
+No. Subzip runs in your browser, talks only to your own Moodle site, and builds the zip on your computer.
+
+# Duecal
+
+> Duecal is a free, open-source bookmark that collects your Moodle assignment and quiz deadlines into one calendar file (.ics) for Google, Apple or Outlook Calendar, with every deadline marked high priority and reminders before it is due.
+
+- Website: https://ashgar99.github.io/duecal/
+- Source code: https://github.com/ashgar99/duecal
+- Licence: MIT. Free, with no account, adverts or tracking.
+- Part of Unikit, free tools for university students: https://ashgar99.github.io/
+
+## Features
+
+- Collects assignment, quiz and activity deadlines from Moodle
+- Exports one .ics file for Google, Apple or Outlook Calendar
+- Reminders two weeks, one day and two hours before each deadline
+- Choose one assignment, one module or every module
+- Running it again updates moved deadlines instead of duplicating them
+
+## Questions and answers
+
+### What is Duecal?
+
+Duecal is a free, open-source bookmark that collects your Moodle assignment and quiz deadlines into one calendar file (.ics) for Google, Apple or Outlook Calendar, with reminders before each deadline.
+
+### How do I add my Moodle deadlines to Google Calendar?
+
+Click the Duecal bookmark on Moodle and choose all modules. Then, in Google Calendar on a computer, open Settings, choose Import and export, and import the downloaded file into a calendar.
+
+### How do I add Moodle deadlines to Apple Calendar or my iPhone?
+
+Double-click the downloaded file on a Mac and choose a calendar. On an iPhone, open the file from Files or Mail and add the events. If your calendars sync with iCloud, they appear on all your devices.
+
+### Will I get reminders before deadlines?
+
+Yes. Each deadline has reminders two weeks, one day and two hours before it is due in Apple Calendar and Outlook. Google Calendar uses your calendar’s default notifications for imported events instead.
+
+### What if a lecturer changes a deadline?
+
+Run Duecal again and import the new file. Each deadline keeps the same identifier, so Apple Calendar and Outlook update the moved deadline rather than adding a duplicate.
+
+### Does Duecal include Turnitin deadlines?
+
+Only if your university also puts them in the Moodle calendar. Duecal includes every deadline Moodle’s calendar knows about.
+
+# Termcal
+
+> Termcal is a free, open-source tool that turns your weekly university timetable into calendar events for the whole term, skipping reading weeks, and downloads them as one calendar file for Google, Apple or Outlook Calendar.
+
+- Website: https://ashgar99.github.io/termcal/
+- Source code: https://github.com/ashgar99/termcal
+- Licence: MIT. Free, with no account, adverts or tracking.
+- Part of Unikit, free tools for university students: https://ashgar99.github.io/
+
+## Features
+
+- Enter each class once with its day, time and room
+- Repeats classes every teaching week of the term
+- Skips reading weeks and other weeks off
+- Exports one .ics file for Google, Apple or Outlook Calendar
+- Runs in your browser with nothing uploaded
+
+## Questions and answers
+
+### What is Termcal?
+
+Termcal is a free, open-source tool that turns your weekly university timetable into calendar events for the whole term, skipping reading weeks, and downloads them as one calendar file.
+
+### How do I get my university timetable into Google Calendar?
+
+Enter your term dates and each weekly class in Termcal, download the calendar file, then import it in Google Calendar under Settings, Import and export.
+
+### Can Termcal skip reading week?
+
+Yes. Mark any weeks without teaching, such as reading weeks, and Termcal leaves your classes out of those weeks.
+
+### Does Termcal work for any university?
+
+Yes. You enter your own term dates and classes, so it works for any university or college timetable, including ones without a calendar export.
+
+### Is my timetable uploaded anywhere?
+
+No. Termcal runs entirely in your browser and creates the calendar file on your computer.
+
+# Gradewise
+
+> Gradewise is a free, open-source UK degree classification calculator. It works out your weighted average, your classification so far and the marks you need for a First, 2:1, 2:2 or Third, for three-year and four-year degrees, years abroad, integrated master’s and Scottish honours.
+
+- Website: https://ashgar99.github.io/gradewise/
+- Source code: https://github.com/ashgar99/gradewise
+- Licence: MIT. Free, with no account, adverts or tracking.
+- Part of Unikit, free tools for university students: https://ashgar99.github.io/
+
+## Features
+
+- Calculates your weighted average and classification so far
+- Shows the average you need for a First, 2:1, 2:2 and Third
+- Presets for three-year, four-year, year abroad, integrated master’s and Scottish honours degrees
+- Imports marks, weights and late submissions from Moodle
+- Reads your university’s regulations for weightings, boundaries and late penalties
+
+## Questions and answers
+
+### What is Gradewise?
+
+Gradewise is a free, open-source UK degree classification calculator. It works out your weighted average, your classification so far and the marks you need for each grade boundary, and can import your marks from Moodle.
+
+### How is a UK degree classification calculated?
+
+Each counted year’s average is weighted by module credits, then the years are combined using your degree’s weighting, often one third for second year and two thirds for final year. A First usually needs 70% or more, a 2:1 60%, a 2:2 50% and a Third 40%.
+
+### What do I need to get a First?
+
+Enter the marks you have so far in Gradewise and it shows the average you need across your remaining credits to reach 70%, the usual boundary for a First.
+
+### Does first year count towards my degree?
+
+At most UK universities in England, Wales and Northern Ireland, first year does not count and only the second and final years do. In Scotland, classification is usually based on years 3 and 4. Always check your degree regulations.
+
+### Does a year abroad count towards my degree classification?
+
+It depends on your university. Some leave the year abroad out, some count it at around 10%, and some classify on the final year alone. Gradewise has presets for each.
+
+### Can Gradewise use my marks from Moodle?
+
+Yes. The Gradewise bookmark reads your assignment and Turnitin marks, weights and submission dates from Moodle, flags late work, and works out your classification in a panel on the page.
+
+# Wordfair
+
+> Wordfair is a free, open-source essay word counter that leaves out your reference list, footnotes, in-text citations and quotations, and checks your total against your word limit.
+
+- Website: https://ashgar99.github.io/wordfair/
+- Source code: https://github.com/ashgar99/wordfair
+- Licence: MIT. Free, with no account, adverts or tracking.
+- Part of Unikit, free tools for university students: https://ashgar99.github.io/
+
+## Features
+
+- Leaves out the reference list or bibliography
+- Leaves out footnotes, endnotes and headings in Word documents
+- Optionally leaves out in-text citations and quotations
+- Checks the total against your word limit and a 10% margin
+- Counts words like Microsoft Word, with Chinese, Japanese and Korean characters counted individually
+
+## Questions and answers
+
+### What is Wordfair?
+
+Wordfair is a free, open-source essay word counter that leaves out your reference list, footnotes, in-text citations and quotations, and checks your total against your word limit.
+
+### Do references count towards the word count?
+
+At most UK universities, the reference list or bibliography does not count towards the word limit. Wordfair leaves it out automatically. Check your department’s guidance, as rules vary.
+
+### Do footnotes count in the word count?
+
+It depends on your department. Many exclude footnotes that only contain references but count discursive footnotes. Wordfair reads footnotes from Word documents and lets you include or exclude them.
+
+### Do in-text citations count towards the word count?
+
+Some departments count in-text citations such as (Smith, 2020) and some do not. Wordfair can leave them out with one switch.
+
+### Is my essay uploaded anywhere?
+
+No. Wordfair reads your text or Word document in your browser and never uploads it.
+
+# Readable
+
+> Readable is a free, open-source tool that turns scanned PDFs and photos of pages into searchable, highlightable PDFs using text recognition (OCR) in your browser. Files are never uploaded, and it supports English, European languages, Japanese, Chinese and Korean, including vertical text.
+
+- Website: https://ashgar99.github.io/readable/
+- Source code: https://github.com/ashgar99/readable
+- Licence: MIT. Free, with no account, adverts or tracking.
+- Part of Unikit, free tools for university students: https://ashgar99.github.io/
+
+## Features
+
+- Adds an invisible, searchable text layer to scanned PDFs
+- Turns photos of pages into one searchable PDF
+- Runs text recognition in your browser with no upload
+- Supports Japanese, Chinese and Korean, including vertical text
+- Skips pages that already contain text
+
+## Questions and answers
+
+### What is Readable?
+
+Readable is a free, open-source tool that makes scanned PDFs and photos of pages searchable and highlightable, using text recognition (OCR) that runs in your browser. Your files are never uploaded.
+
+### How do I make a scanned PDF searchable?
+
+Open Readable, choose your scanned PDF and the language of the text, and click Make searchable. It downloads a new PDF that looks the same but lets you search, select, copy and highlight the text.
+
+### Why can’t I highlight text in my reading PDF?
+
+Scanned readings are usually pictures of pages, so there is no text to select. Readable recognises the text and adds an invisible text layer over the image.
+
+### Can Readable read Japanese, Chinese or Korean?
+
+Yes. Choose Japanese, Chinese (Simplified or Traditional) or Korean, or the vertical options for books printed in columns.
+
+### Is it safe to use with course materials?
+
+Yes. Unlike most online OCR tools, Readable processes everything on your own computer, so readings are never uploaded to anyone else’s server.

@@ -1,0 +1,37 @@
+# Unikit
+
+> Unikit is a set of seven free, open-source tools for university students who use Moodle. Each runs in your browser with nothing to install and nothing uploaded.
+
+Every tool is free, open source under the MIT licence, needs no account, and runs in the browser without uploading anything. The Moodle tools are bookmarks (bookmarklets) that work with Moodle 4 using the student's existing login.
+
+## Tools
+
+- [Modzip](https://ashgar99.github.io/moodle-module-downloader/): Modzip is a free, open-source bookmark that downloads every file from a Moodle 4 module as a single zip, with a folder for each section. It runs in your browser with your existing Moodle login, so there is nothing to install. Details: https://ashgar99.github.io/moodle-module-downloader/llms.txt
+- [Subzip](https://ashgar99.github.io/subzip/): Subzip is a free, open-source bookmark that saves your own Moodle assignment submissions, grades, feedback files and marker comments as one zip, organised into folders by module and assignment. Details: https://ashgar99.github.io/subzip/llms.txt
+- [Duecal](https://ashgar99.github.io/duecal/): Duecal is a free, open-source bookmark that collects your Moodle assignment and quiz deadlines into one calendar file (.ics) for Google, Apple or Outlook Calendar, with every deadline marked high priority and reminders before it is due. Details: https://ashgar99.github.io/duecal/llms.txt
+- [Termcal](https://ashgar99.github.io/termcal/): Termcal is a free, open-source tool that turns your weekly university timetable into calendar events for the whole term, skipping reading weeks, and downloads them as one calendar file for Google, Apple or Outlook Calendar. Details: https://ashgar99.github.io/termcal/llms.txt
+- [Gradewise](https://ashgar99.github.io/gradewise/): Gradewise is a free, open-source UK degree classification calculator. It works out your weighted average, your classification so far and the marks you need for a First, 2:1, 2:2 or Third, for three-year and four-year degrees, years abroad, integrated master’s and Scottish honours. Details: https://ashgar99.github.io/gradewise/llms.txt
+- [Wordfair](https://ashgar99.github.io/wordfair/): Wordfair is a free, open-source essay word counter that leaves out your reference list, footnotes, in-text citations and quotations, and checks your total against your word limit. Details: https://ashgar99.github.io/wordfair/llms.txt
+- [Readable](https://ashgar99.github.io/readable/): Readable is a free, open-source tool that turns scanned PDFs and photos of pages into searchable, highlightable PDFs using text recognition (OCR) in your browser. Files are never uploaded, and it supports English, European languages, Japanese, Chinese and Korean, including vertical text. Details: https://ashgar99.github.io/readable/llms.txt
+
+## Questions and answers
+
+### What is Unikit?
+
+Unikit is a set of seven free, open-source tools for university students who use Moodle. Each one runs in your browser with nothing to install, no account and nothing uploaded.
+
+### Which tools are in Unikit?
+
+Modzip saves a whole Moodle module, Subzip saves your submissions and feedback, Duecal puts deadlines in your calendar, Termcal turns your timetable into a calendar, Gradewise calculates your degree classification, Wordfair counts words the way markers do, and Readable makes scanned PDFs searchable.
+
+### Do the tools work with my university?
+
+The Moodle tools work with Moodle 4, which most universities use. Termcal, Gradewise, Wordfair and Readable work for any university.
+
+### Who made Unikit?
+
+Unikit was made by a university student in 2026 and is free and open source under the MIT licence. It is not affiliated with Moodle or any university.
+
+## Source code
+
+- https://github.com/ashgar99
